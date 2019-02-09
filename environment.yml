@@ -9,3 +9,4 @@ dependencies:
 - pandas=0.20
 - scipy=0.18
 - pybedtools=0.7
+- pysam
